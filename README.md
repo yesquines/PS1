@@ -7,7 +7,7 @@ Repositório para armenzamento das PS1 de usuário comum e do usuário root
 * UTILIZAÇÃO
 
 <p> Adicionar linha seguinte linha no arquivo ~/.bashrc</p>
-<p> *PS1=<conteudo_da_PS1>* </p>
+*PS1=<conteudo_da_PS1>*
 
 ---
 * MAPA DE OPÇÕES
