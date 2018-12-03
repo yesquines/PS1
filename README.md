@@ -3,6 +3,7 @@
 ## INTRODUÇÃO
 
 Repositório para armenzamento das PS1 de usuário comum e do usuário root
+---
 
 ## UTILIZAÇÃO
 
